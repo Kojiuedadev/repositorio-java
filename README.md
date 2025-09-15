@@ -1,0 +1,1 @@
+Este repositório serve como um diário do meu progresso no aprendizado da linguagem Java. Contém uma coleção de projetos, exercícios e desafios práticos que estou implementando para solidificar meu conhecimento.
